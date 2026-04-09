@@ -19,5 +19,8 @@
   "homepage": "https://github.com/giulipierobon/webcrawlerhttp#readme",
   "devDependencies": {
     "jest": "^30.3.0"
+  },
+  "dependencies": {
+    "jsdom": "^26.1.0"
   }
 }
